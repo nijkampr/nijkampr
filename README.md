@@ -9,3 +9,5 @@ Product & Integration Architect at Backbase. I make systems talk — banking int
 - 🎤 [Speaking](https://itsrene.nl/speaking/) — talks on integration architecture, MCP, and multi-system root cause analysis.
 
 *There's always a solution — find it, standardize it, ship it.*
+
+<!-- { } -->
